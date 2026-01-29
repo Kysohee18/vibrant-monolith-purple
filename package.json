@@ -4,6 +4,10 @@
   "description": "theme Dark Vibrant Purple Pink.",
   "version": "0.0.1",
   "publisher": "Kysohee18",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kysohee18/vibrant-monolith-purple.git"
+  },
   "engines": {
     "vscode": "^1.108.1"
   },
