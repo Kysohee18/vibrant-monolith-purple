@@ -1,0 +1,22 @@
+{
+  "name": "vibrant-monolith-purple",
+  "displayName": "Vibrant Monolith Purple",
+  "description": "theme Dark Vibrant Purple Pink.",
+  "version": "0.0.1",
+  "publisher": "Kysohee18",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vibrant Monolith",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vibrant Monolith-color-theme.json"
+      }
+    ]
+  }
+}
