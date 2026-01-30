@@ -3,7 +3,8 @@
 > An ergonomic, high-contrast theme designed for serious Fullstack & AI Development.
 > **Logic-based coloring:** Separating Data (White), Action (Cyan), and Logic (Pink).
 
-![Theme Preview](images/preview.png) *(Note: Anda bisa screenshot tema Anda nanti dan simpan di folder images)*
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/764030bd-d716-4c0d-9018-4bceffe40c47" />
+
 
 ## 🏆 Philosophy (The "Why")
 
